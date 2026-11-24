@@ -1,0 +1,15 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Test script for file download speed - Eto Legko!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:example": "node index.js https://s3.regru.cloud/rapport-uploads/cards/a10284dc-cd6d-426e-a6fa-91eb528ed878.jpg"
+  },
+  "keywords": [],
+  "author": "Evgeniy Kit",
+  "license": "ISC"
+}
